@@ -5,3 +5,42 @@
 .font-geist {
     font-family: "Geist", sans-serif;
 }
+.cards{
+    display: grid;
+    gap: 15px;
+    margin-bottom: 10px;
+    grid-template-areas: "card1 card2 card3";
+
+}
+.threeCard{
+    border-radius: 8px;
+    background-color: white;
+    padding-top: 5px;
+    padding-bottom: 20px;
+    padding-left: 7px;
+    
+
+}
+.mx-width{
+    width: 1110px;
+    padding-left: 150px;
+}
+.bg1{
+    background:#F8FAFC;
+
+}
+ 
+.main-card{
+    background-color: white;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    padding: 20px;
+    padding-top: 10px;
+    
+}
+.sticky-head{
+    background-color: #F8FAFC;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
