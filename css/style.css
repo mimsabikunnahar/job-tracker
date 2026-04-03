@@ -44,3 +44,12 @@
     top: 0;
     z-index: 1000;
 }
+ 
+.last{
+    background: white;
+    align-items: center;
+    text-align: center;
+    padding: 70px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
